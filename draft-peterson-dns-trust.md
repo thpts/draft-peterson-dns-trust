@@ -1,7 +1,7 @@
 ---
 title: "DNS Trust Considerations"
 abbrev: "DNS Trust Considerations"
-docname: draft-peterson-dns-trust
+docname: draft-peterson-dns-trust-latest
 date: {DATE}
 
 author:
